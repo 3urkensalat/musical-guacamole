@@ -47,3 +47,75 @@ Alle har lov til å bidra. Dette prosjektet og andre prosjekter jeg har laget er
 
 
 ყველას უფლება აქვს წვლილი შეიტანოს. ეს პროექტი და სხვა პროექტები, რომლებიც მე შევქმენი, ღიაა ხალხისთვის მთელ მსოფლიოში. რასიზმს არ აქვს ადგილი ჩემს პროექტებში. ყველას შეუძლია წვლილი შეიტანოს, არ აქვს მნიშვნელობა რომელი ეროვნების, რელიგიის, სქესის, სექსუალური უპირატესობისა და ა.შ. აქვს დამხმარე პროგრამისტს. ჩემთვის მნიშვნელოვანია, რომ ჩვენ ერთად განვავითაროთ პროგრამები მეგობრული და კეთილი გზით. პროგრამისტების სამყარო დიდი ოჯახია და ჩვენ ერთად ვმუშაობთ მშვიდად.
+
+
+Öllum er heimilt að leggja sitt af mörkum. Þetta verkefni og önnur verkefni sem ég bjó til er opin fyrir fólk um allan heim. Rasismi á ekkert pláss í verkefnum mínum. Allir geta lagt sitt af mörkum, sama hvaða þjóðerni, trúarbrögð, kyn, kynhneigð osfrv. forritarinn sem leggur sitt af mörkum hefur. Það er mikilvægt fyrir mig að við þróum forrit saman á vinalegan og vinsamlegan hátt. Heimur forritara er stór fjölskylda og sem slík vinnum við saman í friði.
+
+
+Jeder darf seinen Beitrag leisten. Dieses Projekt und andere Projekte, die ich erstellt habe, stehen Menschen auf der ganzen Welt offen. Rassismus hat in meinen Projekten keinen Platz. Jeder kann mitmachen, egal welche Nationalität, Religion, Geschlecht, sexuelle Präferenz etc. der mitwirkende Programmierer hat. Mir ist es wichtig, dass wir Programme freundschaftlich und sympathisch gemeinsam entwickeln. Die Welt der Programmierer ist eine große Familie und als solche arbeiten wir friedlich zusammen.
+
+
+לכולם מותר לתרום. הפרויקט הזה ופרויקטים אחרים שיצרתי פתוחים לאנשים בכל רחבי העולם. לגזענות אין מקום בפרויקטים שלי. כל אחד יכול לתרום, לא משנה איזה לאום, דת, מין, העדפה מינית וכו' יש למתכנת התורם. חשוב לי שנפתח תוכניות ביחד בצורה ידידותית ואדיבה. עולם המתכנתים הוא משפחה גדולה וככזה אנחנו עובדים ביחד בשלום.
+
+
+Kiekvienas gali prisidėti. Šis projektas ir kiti mano sukurti projektai yra atviri žmonėms iš viso pasaulio. Rasizmas mano projektuose neturi vietos. Prisidėti gali kiekvienas, nesvarbu, kokią tautybę, religiją, lytį, seksualines nuostatas ir pan. turi prisidedantis programuotojas. Man svarbu, kad programas kurtume kartu draugiškai ir maloniai. Programuotojų pasaulis yra didelė šeima, todėl mes taikiai dirbame kartu.
+
+
+Kõigil on lubatud panustada. See projekt ja teised minu loodud projektid on avatud inimestele üle kogu maailma. Rassismil pole minu projektides ruumi. Igaüks saab panustada, olenemata sellest, mis rahvusest, usutunnistusest, soost, seksuaalsest eelistusest jne panustaja programmeerija on. Minu jaoks on oluline, et arendaksime programme koos sõbralikult ja lahkelt. Programmeerijate maailm on suur pere ja sellisena töötame rahus koos.
+
+
+Jokainen saa osallistua. Tämä projekti ja muut luomani projektit ovat avoinna ihmisille ympäri maailmaa. Rasismilla ei ole tilaa projekteissani. Jokainen voi osallistua, riippumatta siitä, mikä kansallisuus, uskonto, sukupuoli, seksuaalinen mieltymys jne. osallistuvalla ohjelmoijalla on. Minulle on tärkeää, että kehitämme ohjelmia yhdessä ystävällisesti ja ystävällisesti. Ohjelmoijien maailma on iso perhe ja sellaisena teemme yhteistyötä rauhassa.
+
+
+Të gjithë lejohen të kontribuojnë. Ky projekt dhe projekte të tjera që kam krijuar është i hapur për njerëzit në mbarë botën. Racizmi nuk ka vend në projektet e mia. Të gjithë mund të kontribuojnë, pavarësisht se cilës kombësi, fe, gjini, preferenca seksuale etj. ka programuesi kontribues. Është e rëndësishme për mua që ne të zhvillojmë programe së bashku në një mënyrë miqësore dhe dashamirëse. Bota e programuesve është një familje e madhe dhe si e tillë ne punojmë së bashku në paqe.
+
+
+Բոլորին թույլատրվում է ներդրում ունենալ։ Այս նախագիծը և իմ ստեղծած մյուս նախագծերը բաց են ամբողջ աշխարհի մարդկանց համար: Ռասիզմը տեղ չունի իմ նախագծերում։ Յուրաքանչյուր ոք կարող է ներդրում ունենալ, անկախ նրանից, թե ինչ ազգություն, կրոն, սեռ, սեռական նախապատվություն ունի և այլն: Ինձ համար կարևոր է, որ մենք միասին ծրագրեր մշակենք ընկերական և բարի ձևով: Ծրագրավորողների աշխարհը մեծ ընտանիք է, և որպես այդպիսին մենք միասին աշխատում ենք խաղաղությամբ:
+
+
+Tutti possono contribuire. Questo progetto e altri progetti che ho creato sono aperti a persone in tutto il mondo. Il razzismo non ha spazio nei miei progetti. Tutti possono contribuire, indipendentemente dalla nazionalità, religione, sesso, preferenza sessuale, ecc. del programmatore che contribuisce. Per me è importante sviluppare programmi insieme in modo amichevole e gentile. Il mondo dei programmatori è una grande famiglia e come tale lavoriamo insieme in pace.
+
+
+Her kes destûr e ku tevkariyê bike. Ev proje û projeyên din ên ku min çêkirine ji bo mirovên li çaraliyê cîhanê vekirî ye. Di projeyên min de cihê nîjadperestî nîne. Her kes dikare beşdariyê bike, ji kîjan netewe, ol, zayend, tercîha zayendî û hwd. Ji bo min girîng e, ku em bi hev re bi awayekî dostane û dilovan bernameyan pêş bixin. Cîhana bernamenûsan malbatek mezin e û bi vî rengî em bi hev re di aştiyê de dixebitin.
+
+
+Svima je dopušteno dati doprinos. Ovaj projekt i drugi projekti koje sam kreirao otvoren je za ljude diljem svijeta. Rasizam nema mjesta u mojim projektima. Svatko može dati svoj doprinos, bez obzira koju nacionalnost, vjeru, spol, seksualnu sklonost itd. programer ima. Važno mi je da zajedno razvijamo programe na prijateljski i ljubazan način. Svijet programera je velika obitelj i kao takvi radimo zajedno u miru.
+
+
+Avela hitondra ny anjara birikiny ny tsirairay. Ity tetikasa ity sy ireo tetikasa hafa noforoniko dia misokatra ho an'ny olona manerana izao tontolo izao. Tsy manana toerana amin'ny tetikasako ny fanavakavaham-bolon-koditra. Afaka mandray anjara avokoa ny rehetra, na inona na inona firenena, fivavahana, lahy sy vavy, firaisana ara-nofo sns. Zava-dehibe amiko ny fiarahantsika mamolavola programa amin'ny fomba sariaka sy tsara fanahy. Fianakaviana lehibe ny tontolon'ny mpandrindra ary noho izany dia miara-miasa am-pilaminana izahay.
+
+
+هرڅوک اجازه لري چې ونډه واخلي. دا پروژه او نورې پروژې چې ما رامینځته کړې د ټولې نړۍ خلکو لپاره خلاصې دي. نژاد پرستۍ زما په پروژو کې ځای نلري. هرڅوک کولی شي مرسته وکړي، پرته له دې چې کوم ملیت، مذهب، جنسیت، جنسیت غوره توب او داسې نور چې مرسته کوونکی پروګرامر لري. دا زما لپاره مهمه ده، چې موږ پروګرامونه په دوستانه او مهربانه طریقه سره جوړ کړو. د پروګرامرانو نړۍ یوه لویه کورنۍ ده او لکه څنګه چې موږ په سوله کې یوځای کار کوو.
+
+
+Každý môže prispieť. Tento projekt a ďalšie projekty, ktoré som vytvoril, sú otvorené pre ľudí z celého sveta. Rasizmus nemá v mojich projektoch priestor. Prispievať môže každý, bez ohľadu na to, akú národnosť, náboženstvo, pohlavie, sexuálnu preferenciu atď. má prispievajúci programátor. Je pre mňa dôležité, aby sme programy vyvíjali spoločne priateľským a láskavým spôsobom. Svet programátorov je veľká rodina a ako taký spolu pracujeme v mieri.
+
+
+Vsakemu je dovoljeno prispevati. Ta projekt in drugi projekti, ki sem jih ustvaril, so odprti za ljudi po vsem svetu. Rasizem v mojih projektih nima prostora. Vsak lahko prispeva, ne glede na nacionalnost, vero, spol, spolne preference itd., ki ima sodelujoči programer. Zame je pomembno, da skupaj razvijamo programe na prijazen in prijazen način. Svet programerjev je velika družina in kot taki v miru sodelujemo.
+
+
+Toată lumea are voie să contribuie. Acest proiect și alte proiecte pe care le-am creat sunt deschise pentru oameni din întreaga lume. Rasismul nu are loc în proiectele mele. Oricine poate contribui, indiferent de naționalitate, religie, sex, preferință sexuală etc. programatorul care contribuie. Pentru mine este important să dezvoltăm programe împreună într-un mod prietenos și amabil. Lumea programatorilor este o familie mare și ca atare lucrăm împreună în pace.
+
+
+Ikvienam ir atļauts dot savu ieguldījumu. Šis projekts un citi manis izveidotie projekti ir atvērti cilvēkiem visā pasaulē. Rasismam manos projektos nav vietas. Ikviens var sniegt savu ieguldījumu neatkarīgi no tā, kura tautība, reliģija, dzimums, seksuālā izvēle utt. ir ieguldījumu sniedzējam programmētājam. Man ir svarīgi, lai mēs kopā draudzīgi un laipni izstrādātu programmas. Programmētāju pasaule ir liela ģimene, un tāpēc mēs mierīgi strādājam kopā.
+
+
+Всеки има право да допринася. Този проект и други проекти, които създадох, са отворени за хора от цял свят. Расизмът няма място в моите проекти. Всеки може да допринесе, без значение коя националност, религия, пол, сексуални предпочитания и т.н. има участващият програмист. За мен е важно да разработваме програми заедно по приятелски и любезен начин. Светът на програмистите е голямо семейство и като такива работим заедно в мир.
+
+
+Almal word toegelaat om by te dra. Hierdie projek en ander projekte wat ek geskep het, is oop vir mense regoor die wêreld. Rassisme het geen spasie in my projekte nie. Almal kan bydra, maak nie saak watter nasionaliteit, godsdiens, geslag, seksuele voorkeur ens. die bydraende programmeerder het nie. Dit is vir my belangrik dat ons saam programme op 'n vriendelike en vriendelike manier ontwikkel. Die wêreld van programmeerders is 'n groot familie en as sodanig werk ons in vrede saam.
+
+
+Όλοι επιτρέπεται να συνεισφέρουν. Αυτό το έργο και άλλα έργα που δημιούργησα είναι ανοιχτά για ανθρώπους σε όλο τον κόσμο. Ο ρατσισμός δεν έχει χώρο στα έργα μου. Ο καθένας μπορεί να συνεισφέρει, ανεξάρτητα από την εθνικότητα, τη θρησκεία, το φύλο, τις σεξουαλικές προτιμήσεις κ.λπ. που έχει ο συνεισφέρων προγραμματιστής. Είναι σημαντικό για μένα να αναπτύσσουμε προγράμματα μαζί με φιλικό και ευγενικό τρόπο. Ο κόσμος των προγραμματιστών είναι μια μεγάλη οικογένεια και ως εκ τούτου συνεργαζόμαστε ειρηνικά.
+
+
+ທຸກຄົນໄດ້ຮັບອະນຸຍາດໃຫ້ປະກອບສ່ວນ. ໂຄງການນີ້ແລະໂຄງການອື່ນໆທີ່ຂ້ອຍສ້າງແມ່ນເປີດໃຫ້ປະຊາຊົນທົ່ວໂລກ. Racism ບໍ່ມີພື້ນທີ່ຢູ່ໃນໂຄງການຂອງຂ້ອຍ. ທຸກຄົນສາມາດປະກອບສ່ວນ, ບໍ່ວ່າຊາດໃດ, ສາສະຫນາ, ເພດ, ຄວາມມັກທາງເພດ, ແລະອື່ນໆ. ມັນເປັນສິ່ງສໍາຄັນສໍາລັບຂ້ອຍ, ທີ່ພວກເຮົາພັດທະນາໂຄງການຮ່ວມກັນໃນວິທີທີ່ເປັນມິດແລະໃຈດີ. ໂລກຂອງນັກຂຽນໂປລແກລມເປັນຄອບຄົວໃຫຍ່ແລະດັ່ງນັ້ນພວກເຮົາເຮັດວຽກຮ່ວມກັນໃນຄວາມສະຫງົບ.
+
+
+ทุกคนได้รับอนุญาตให้มีส่วนร่วม โครงการนี้และโครงการอื่นๆ ที่ฉันสร้างขึ้นเปิดให้ผู้คนทั่วโลก การเหยียดเชื้อชาติไม่มีที่ว่างในโครงการของฉัน ทุกคนสามารถมีส่วนร่วมได้ ไม่ว่าผู้บริจาคจะมีสัญชาติ ศาสนา เพศ รสนิยมทางเพศใด ฯลฯ เป็นสิ่งสำคัญสำหรับฉันที่เราพัฒนาโปรแกรมด้วยกันอย่างเป็นมิตรและใจดี โลกของโปรแกรมเมอร์เป็นครอบครัวใหญ่ ดังนั้นเราจึงทำงานร่วมกันอย่างสันติ
+
+
+Кожны можа ўнесці свой уклад. Гэты праект і іншыя праекты, якія я стварыў, адкрыты для людзей з усяго свету. Расізм не мае месца ў маіх праектах. Кожны можа ўнесці свой уклад, незалежна ад нацыянальнасці, рэлігіі, полу, сэксуальных пераваг і г.д. праграміста. Для мяне важна, каб мы дружна і добра распрацоўвалі праграмы разам. Свет праграмістаў - гэта вялікая сям'я, і таму мы спакойна працуем разам.
+
+
+Кожен має право робити свій внесок. Цей та інші проекти, які я створив, відкриті для людей з усього світу. У моїх проектах немає місця для расизму. Кожен може зробити свій внесок, незалежно від національності, релігії, статі, сексуальних уподобань тощо. Для мене важливо, щоб ми разом дружно та доброзичливо розробляли програми. Світ програмістів – це велика сім’я, тому ми мирно працюємо разом.
