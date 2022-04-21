@@ -23,3 +23,27 @@ Todos pueden contribuir. Este proyecto y otros proyectos que creé están abiert
 همه مجاز به مشارکت هستند. این پروژه و سایر پروژه هایی که من ایجاد کردم برای مردم در سراسر جهان باز است. نژادپرستی در پروژه های من جایی ندارد. هر کس می تواند کمک کند، صرف نظر از ملیت، مذهب، جنسیت، ترجیحات جنسی و غیره که برنامه نویس مشارکت کننده دارد. برای من مهم است که برنامه ها را با هم به روشی دوستانه و مهربانانه توسعه دهیم. دنیای برنامه نویسان یک خانواده بزرگ است و به همین دلیل ما در آرامش با هم کار می کنیم. 
 
 Todos estão autorizados a contribuir. Este projeto e outros projetos que criei estão abertos para pessoas de todo o mundo. O racismo não tem espaço nos meus projetos. Todos podem contribuir, não importa qual nacionalidade, religião, gênero, preferência sexual etc. o programador contribuinte tenha. É importante para mim que desenvolvamos programas juntos de forma amigável e gentil. O mundo dos programadores é uma grande família e como tal trabalhamos juntos em paz. 
+
+
+
+每個人都可以做出貢獻。這個項目和我創建的其他項目對世界各地的人們開放。種族主義在我的項目中沒有空間。每個人都可以貢獻，無論貢獻的程序員有哪個國籍、宗教、性別、性取向等。對我來說，以友好和善意的方式共同開發項目很重要。程序員的世界是一個大家庭，我們和平共處。
+
+
+
+Tout le monde est autorisé à contribuer. Ce projet et d'autres projets que j'ai créés sont ouverts aux gens du monde entier. Le racisme n'a pas sa place dans mes projets. Tout le monde peut contribuer, peu importe la nationalité, la religion, le sexe, la préférence sexuelle, etc. du programmeur contributeur. Il est important pour moi que nous développions des programmes ensemble de manière amicale et bienveillante. Le monde des programmeurs est une grande famille et nous travaillons ensemble en paix.
+
+
+Alla får bidra. Detta projekt och andra projekt som jag skapade är öppet för människor över hela världen. Rasism har inget utrymme i mina projekt. Alla kan bidra, oavsett vilken nationalitet, religion, kön, sexuell preferens etc. den bidragande programmeraren har. Det är viktigt för mig att vi utvecklar program tillsammans på ett vänligt och vänligt sätt. Programmerarnas värld är en stor familj och så arbetar vi tillsammans i fred.
+
+
+Alle har lov til å bidra. Dette prosjektet og andre prosjekter jeg har laget er åpent for mennesker over hele verden. Rasisme har ingen plass i prosjektene mine. Alle kan bidra, uansett hvilken nasjonalitet, religion, kjønn, seksuell preferanse etc. den medvirkende programmereren har. Det er viktig for meg at vi utvikler programmer sammen på en vennlig og snill måte. Programmerernes verden er en stor familie, og slik jobber vi sammen i fred.
+
+
+
+सबैलाई योगदान गर्न अनुमति छ। यो परियोजना र मैले सिर्जना गरेको अन्य परियोजनाहरू संसारभरका मानिसहरूका लागि खुला छ। मेरो परियोजनाहरूमा जातिवादको कुनै ठाउँ छैन। योगदान गर्ने प्रोग्रामरको राष्ट्रियता, धर्म, लिङ्ग, यौन प्राथमिकता इत्यादि भएतापनि सबैले योगदान गर्न सक्छन्। यो मेरो लागि महत्त्वपूर्ण छ कि हामीले एकसाथ मैत्री र दयालु तरिकामा कार्यक्रमहरू विकास गर्छौं। प्रोग्रामरहरूको संसार ठूलो परिवार हो र हामी शान्तिमा सँगै काम गर्छौं।
+
+
+सभी को योगदान करने की अनुमति है। यह परियोजना और अन्य परियोजनाएं जो मैंने बनाई हैं, दुनिया भर के लोगों के लिए खुली हैं। मेरी परियोजनाओं में जातिवाद के लिए कोई जगह नहीं है। योगदान देने वाले प्रोग्रामर की राष्ट्रीयता, धर्म, लिंग, यौन वरीयता आदि कोई भी हो, कोई भी योगदान दे सकता है। मेरे लिए यह महत्वपूर्ण है कि हम एक साथ मैत्रीपूर्ण और दयालु तरीके से कार्यक्रम विकसित करें। प्रोग्रामर्स की दुनिया एक बड़ा परिवार है और ऐसे में हम शांति से एक साथ काम करते हैं।
+
+
+ყველას უფლება აქვს წვლილი შეიტანოს. ეს პროექტი და სხვა პროექტები, რომლებიც მე შევქმენი, ღიაა ხალხისთვის მთელ მსოფლიოში. რასიზმს არ აქვს ადგილი ჩემს პროექტებში. ყველას შეუძლია წვლილი შეიტანოს, არ აქვს მნიშვნელობა რომელი ეროვნების, რელიგიის, სქესის, სექსუალური უპირატესობისა და ა.შ. აქვს დამხმარე პროგრამისტს. ჩემთვის მნიშვნელოვანია, რომ ჩვენ ერთად განვავითაროთ პროგრამები მეგობრული და კეთილი გზით. პროგრამისტების სამყარო დიდი ოჯახია და ჩვენ ერთად ვმუშაობთ მშვიდად.
